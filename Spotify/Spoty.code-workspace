@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../fontawesome-free-5.15.0-web"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#4E095F",
+			"titleBar.activeBackground": "#6D0D85",
+			"titleBar.activeForeground": "#FEFBFF"
+		}
+	}
+}
